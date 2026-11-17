@@ -1,0 +1,12 @@
+{
+  "P001": {
+    "name": "Example Patient",
+    "city": "Example City",
+    "age": 30,
+    "gender": "other",
+    "height": 1.7,
+    "weight": 65,
+    "bmi": 22.49,
+    "verdict": "Normal"
+  }
+}
